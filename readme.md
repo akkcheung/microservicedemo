@@ -1,0 +1,1 @@
+This is demo of microservice with Spring Boot 3 and eureka server.
